@@ -12,11 +12,11 @@ Stat wifi:
 
 Some info:
 
-nmap -p6000-10000 192.168.4.1
-Starting Nmap 7.60 ( https://nmap.org ) at 2020-08-25 20:46 MSK
-Nmap scan report for _gateway (192.168.4.1)
-Host is up (0.0025s latency).
-Not shown: 4000 closed ports
-PORT     STATE SERVICE
-8586/tcp open  unknown
 
+nmap -p6000-10000 192.168.4.1\
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-08-25 20:46 MSK\
+Nmap scan report for _gateway (192.168.4.1)\
+Host is up (0.0025s latency).\
+Not shown: 4000 closed ports\
+PORT     STATE SERVICE\
+8586/tcp open  unknown\
